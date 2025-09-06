@@ -20,10 +20,10 @@ This is a demo project built with HTML, CSS, and JavaScript using the [Typed.js]
 
 ## 📹 Live Demo
 
-▶️ **Demo Video on LinkedIn**: [Watch here](#) *(Update with video link once uploaded)*  
-🌐 **Live Website**: [https://vikashbharti0.github.io/typedjs-demo](https://vikashbharti0.github.io/typedjs-demo)
+
 
 ---
+▶️ **Demo Video on LinkedIn**: [Watch here](#) *(Update with video link once uploaded)*  
 
 ## 🛠️ Technologies Used
 
