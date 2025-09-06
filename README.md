@@ -41,7 +41,7 @@ Installation
 CDN
 <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
 For use directly in the browser via <script> tag:
-
+```
   <!-- Element to contain animated typing -->
   <span id="element"></span>
 
@@ -61,6 +61,7 @@ For use directly in the browser via <script> tag:
     
   </script>
 </body>
+```
 Clone the repository and run locally:
 
 ```bash
