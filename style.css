@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background: url("media.png");
+}
+.container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.container .box{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    transform: translateY(0%);
+    animation: abc .3s linear forwards;
+    animation-delay: calc(.08s * var(--i));
+
+}
+@keyframes abc {
+    100%{
+        transform: translateY(-100%);
+    }
+}
+.con{
+    position: relative;
+    width: 500px;
+    height: 450px;
+    top:100px;
+    left:100px;
+    background-color: rgba(187, 213, 213, 0.281);
+    border-radius: 15px;
+    backdrop-filter: blur(20px);
+    
+}
+.text{
+    
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h1{
+    padding: 10px 10px 15px 10px;
+}
+h2{
+    padding: 10px 10px 15px 10px;
+}
+a{
+    display: inline-block;
+    padding: 15px;
+    margin: 10px 10px 15px 40px;
+}
+a>button{
+    padding: 8px;
+    background-color: rgb(43, 43, 255);
+    color: white;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(63, 222, 156);
+    color: white;
+    box-shadow: 0px 0px 20px greenyellow;
+}
+span{
+    color:rgb(28, 255, 20);
+}
+#cv>button{
+    margin-left: 50px;
+    background-color: green;
+}
