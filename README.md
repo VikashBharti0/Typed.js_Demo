@@ -39,7 +39,7 @@ Typed.js is a library that types. Enter in any string, and watch it type at the 
 
 Installation
 CDN
-<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+```<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>```
 For use directly in the browser via <script> tag:
 ```
   <!-- Element to contain animated typing -->
@@ -51,7 +51,7 @@ For use directly in the browser via <script> tag:
   <!-- Setup and start animation! -->
   <script>
     var typed = new Typed('#element', {
-      strings: ['Fist String .', 'Second String .','Third String and so on.. .'],
+      strings: ['Fist String ', 'Second String ','Third String and so on'],
       typeSpeed: 50,
       backSpeed: 50,
       loop : true,
