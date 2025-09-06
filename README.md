@@ -19,11 +19,11 @@ This is a demo project built with HTML, CSS, and JavaScript using the [Typed.js]
 ---
 
 ## 📹 Live Demo
-
+https://drive.google.com/file/d/1YJUp7OZSN1NhA8UV9vmD3r8gv39mTXRU/view?usp=drive_link
 
 
 ---
-▶️ **Demo Video on LinkedIn**: [Watch here](#) *(Update with video link once uploaded)*  
+▶️ **Demo Video on LinkedIn**: [Watch here](https://drive.google.com/file/d/1YJUp7OZSN1NhA8UV9vmD3r8gv39mTXRU/view?usp=drive_link) *(Update with video link once uploaded)*  
 
 ## 🛠️ Technologies Used
 
