@@ -38,10 +38,16 @@ Below Typed.js library CDN link and Template code if YOU have doubt then freely 
 Typed.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.
 
 Installation
+----------------------
 CDN
-```<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>```
+```
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
+```
 For use directly in the browser via <script> tag:
 ```
+
+<body>
   <!-- Element to contain animated typing -->
   <span id="element"></span>
 
@@ -61,10 +67,12 @@ For use directly in the browser via <script> tag:
     
   </script>
 </body>
+
 ```
 Clone the repository and run locally:
 
 ```bash
+
 git clone https://github.com/VikashBharti0/typedjs-demo.git
 cd typedjs-demo
 open index.html
